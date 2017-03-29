@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xxxhdpi-v4\\values-xxxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 55,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 55,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 50,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 50,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 52,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 47,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 47,
+                        "endOffset": 156
+                    }
+                }
+            }
+        ]
+    }
+]

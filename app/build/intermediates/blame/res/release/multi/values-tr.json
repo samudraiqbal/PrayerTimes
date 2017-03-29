@@ -1,0 +1,1590 @@
+[
+    {
+        "outputFile": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 207,
+                    "endColumn": 19,
+                    "endOffset": 5104
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 5109,
+                    "endLine": 413,
+                    "endColumn": 19,
+                    "endOffset": 11333
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 11338,
+                    "endLine": 417,
+                    "endColumn": 19,
+                    "endOffset": 11449
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 11454,
+                    "endLine": 421,
+                    "endColumn": 19,
+                    "endOffset": 11558
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 11563,
+                    "endColumn": 104,
+                    "endOffset": 11663
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 11668,
+                    "endColumn": 107,
+                    "endOffset": 11771
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 11776,
+                    "endColumn": 122,
+                    "endOffset": 11894
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 11899,
+                    "endColumn": 98,
+                    "endOffset": 11993
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 11998,
+                    "endColumn": 111,
+                    "endOffset": 12105
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 12110,
+                    "endColumn": 84,
+                    "endOffset": 12190
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 12195,
+                    "endColumn": 105,
+                    "endOffset": 12296
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 12301,
+                    "endColumn": 119,
+                    "endOffset": 12416
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 12421,
+                    "endColumn": 78,
+                    "endOffset": 12495
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 12500,
+                    "endColumn": 75,
+                    "endOffset": 12571
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 12576,
+                    "endColumn": 78,
+                    "endOffset": 12650
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 12655,
+                    "endColumn": 106,
+                    "endOffset": 12757
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 12762,
+                    "endColumn": 104,
+                    "endOffset": 12862
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 12867,
+                    "endColumn": 95,
+                    "endOffset": 12958
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 12963,
+                    "endColumn": 106,
+                    "endOffset": 13065
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 13070,
+                    "endColumn": 101,
+                    "endOffset": 13167
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 13172,
+                    "endColumn": 107,
+                    "endOffset": 13275
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 13280,
+                    "endColumn": 118,
+                    "endOffset": 13394
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 13399,
+                    "endColumn": 97,
+                    "endOffset": 13492
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 13497,
+                    "endColumn": 47,
+                    "endOffset": 13540
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 13545,
+                    "endColumn": 58,
+                    "endOffset": 13599
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 13604,
+                    "endColumn": 82,
+                    "endOffset": 13682
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 13687,
+                    "endColumn": 44,
+                    "endOffset": 13727
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 13732,
+                    "endColumn": 47,
+                    "endOffset": 13775
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 13780,
+                    "endColumn": 82,
+                    "endOffset": 13858
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 13863,
+                    "endColumn": 53,
+                    "endOffset": 13912
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 13917,
+                    "endColumn": 59,
+                    "endOffset": 13972
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 13977,
+                    "endColumn": 53,
+                    "endOffset": 14026
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 14031,
+                    "endColumn": 49,
+                    "endOffset": 14076
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 14081,
+                    "endColumn": 39,
+                    "endOffset": 14116
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 14121,
+                    "endColumn": 37,
+                    "endOffset": 14154
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 14159,
+                    "endColumn": 42,
+                    "endOffset": 14197
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 14202,
+                    "endColumn": 50,
+                    "endOffset": 14248
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 14253,
+                    "endColumn": 52,
+                    "endOffset": 14301
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 14306,
+                    "endColumn": 83,
+                    "endOffset": 14385
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 14390,
+                    "endColumn": 50,
+                    "endOffset": 14436
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 14441,
+                    "endColumn": 39,
+                    "endOffset": 14476
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 14481,
+                    "endColumn": 73,
+                    "endOffset": 14550
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 14555,
+                    "endColumn": 73,
+                    "endOffset": 14624
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 14629,
+                    "endColumn": 66,
+                    "endOffset": 14691
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 14696,
+                    "endColumn": 55,
+                    "endOffset": 14747
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 14752,
+                    "endColumn": 40,
+                    "endOffset": 14788
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 14793,
+                    "endColumn": 36,
+                    "endOffset": 14825
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 14830,
+                    "endColumn": 45,
+                    "endOffset": 14871
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 14876,
+                    "endColumn": 128,
+                    "endOffset": 15000
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 15005,
+                    "endColumn": 40,
+                    "endOffset": 15041
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 15046,
+                    "endColumn": 55,
+                    "endOffset": 15097
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 15102,
+                    "endColumn": 84,
+                    "endOffset": 15182
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 15187,
+                    "endColumn": 43,
+                    "endOffset": 15226
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 15231,
+                    "endColumn": 105,
+                    "endOffset": 15332
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 15337,
+                    "endColumn": 38,
+                    "endOffset": 15371
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 15376,
+                    "endColumn": 45,
+                    "endOffset": 15417
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 15422,
+                    "endColumn": 59,
+                    "endOffset": 15477
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 15482,
+                    "endColumn": 40,
+                    "endOffset": 15518
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 15523,
+                    "endColumn": 40,
+                    "endOffset": 15559
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 15564,
+                    "endColumn": 42,
+                    "endOffset": 15602
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 15607,
+                    "endColumn": 69,
+                    "endOffset": 15672
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 15677,
+                    "endColumn": 47,
+                    "endOffset": 15720
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 15725,
+                    "endColumn": 98,
+                    "endOffset": 15819
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 15824,
+                    "endColumn": 64,
+                    "endOffset": 15884
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 15889,
+                    "endColumn": 37,
+                    "endOffset": 15922
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 15927,
+                    "endColumn": 43,
+                    "endOffset": 15966
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 15971,
+                    "endColumn": 37,
+                    "endOffset": 16004
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 16009,
+                    "endColumn": 37,
+                    "endOffset": 16042
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 16047,
+                    "endColumn": 43,
+                    "endOffset": 16086
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 16091,
+                    "endColumn": 63,
+                    "endOffset": 16150
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 16155,
+                    "endColumn": 46,
+                    "endOffset": 16197
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 16202,
+                    "endColumn": 68,
+                    "endOffset": 16266
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 16271,
+                    "endColumn": 100,
+                    "endOffset": 16367
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 16372,
+                    "endColumn": 58,
+                    "endOffset": 16426
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 16431,
+                    "endColumn": 37,
+                    "endOffset": 16464
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 16469,
+                    "endColumn": 53,
+                    "endOffset": 16518
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 16523,
+                    "endColumn": 41,
+                    "endOffset": 16560
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml",
+                    "position": {
+                        "startLine": 474,
+                        "startColumn": 4,
+                        "startOffset": 14737,
+                        "endColumn": 41,
+                        "endOffset": 14774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 16565,
+                    "endColumn": 39,
+                    "endOffset": 16600
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 16605,
+                    "endColumn": 35,
+                    "endOffset": 16636
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 16641,
+                    "endColumn": 40,
+                    "endOffset": 16677
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 16682,
+                    "endColumn": 40,
+                    "endOffset": 16718
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 16723,
+                    "endColumn": 91,
+                    "endOffset": 16810
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 16815,
+                    "endColumn": 68,
+                    "endOffset": 16879
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 16884,
+                    "endColumn": 66,
+                    "endOffset": 16946
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 16951,
+                    "endColumn": 63,
+                    "endOffset": 17010
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 17015,
+                    "endColumn": 52,
+                    "endOffset": 17063
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 17068,
+                    "endColumn": 45,
+                    "endOffset": 17109
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 17114,
+                    "endColumn": 43,
+                    "endOffset": 17153
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 17158,
+                    "endColumn": 36,
+                    "endOffset": 17190
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 17195,
+                    "endColumn": 95,
+                    "endOffset": 17286
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 17291,
+                    "endColumn": 62,
+                    "endOffset": 17349
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 17354,
+                    "endColumn": 40,
+                    "endOffset": 17390
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 17395,
+                    "endColumn": 73,
+                    "endOffset": 17464
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 17469,
+                    "endColumn": 42,
+                    "endOffset": 17507
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 17512,
+                    "endColumn": 42,
+                    "endOffset": 17550
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 17555,
+                    "endColumn": 78,
+                    "endOffset": 17629
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 17634,
+                    "endColumn": 56,
+                    "endOffset": 17686
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 17691,
+                    "endColumn": 61,
+                    "endOffset": 17748
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 17753,
+                    "endColumn": 51,
+                    "endOffset": 17800
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 17805,
+                    "endColumn": 66,
+                    "endOffset": 17867
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 17872,
+                    "endColumn": 47,
+                    "endOffset": 17915
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 17920,
+                    "endColumn": 49,
+                    "endOffset": 17965
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 17970,
+                    "endColumn": 41,
+                    "endOffset": 18007
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 18012,
+                    "endColumn": 60,
+                    "endOffset": 18068
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 18073,
+                    "endColumn": 100,
+                    "endOffset": 18169
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-tr\\values-tr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 18174,
+                    "endColumn": 41,
+                    "endOffset": 18211
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 18216,
+                    "endColumn": 40,
+                    "endOffset": 18252
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 18257,
+                    "endColumn": 215,
+                    "endOffset": 18468
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 18473,
+                    "endColumn": 42,
+                    "endOffset": 18511
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 18516,
+                    "endColumn": 42,
+                    "endOffset": 18554
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 18559,
+                    "endColumn": 58,
+                    "endOffset": 18613
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 18618,
+                    "endColumn": 42,
+                    "endOffset": 18656
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 18661,
+                    "endColumn": 53,
+                    "endOffset": 18710
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 18715,
+                    "endColumn": 121,
+                    "endOffset": 18832
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 18837,
+                    "endColumn": 87,
+                    "endOffset": 18920
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 18925,
+                    "endColumn": 47,
+                    "endOffset": 18968
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 18973,
+                    "endColumn": 60,
+                    "endOffset": 19029
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 19034,
+                    "endColumn": 57,
+                    "endOffset": 19087
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 19092,
+                    "endColumn": 53,
+                    "endOffset": 19141
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 19146,
+                    "endColumn": 52,
+                    "endOffset": 19194
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 19199,
+                    "endColumn": 42,
+                    "endOffset": 19237
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 19242,
+                    "endColumn": 42,
+                    "endOffset": 19280
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 19285,
+                    "endColumn": 41,
+                    "endOffset": 19322
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 19327,
+                    "endColumn": 117,
+                    "endOffset": 19440
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 19445,
+                    "endColumn": 50,
+                    "endOffset": 19491
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 19496,
+                    "endColumn": 110,
+                    "endOffset": 19602
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 19607,
+                    "endColumn": 41,
+                    "endOffset": 19644
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 19649,
+                    "endColumn": 42,
+                    "endOffset": 19687
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 19692,
+                    "endColumn": 43,
+                    "endOffset": 19731
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 19736,
+                    "endColumn": 52,
+                    "endOffset": 19784
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 19789,
+                    "endColumn": 81,
+                    "endOffset": 19866
+                },
+                "from": {
+                    "file": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\values-tr\\strings.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_alarm.xml",
+        "source": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\xml\\pref_alarm.xml"
+    },
+    {
+        "merged": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\res\\merged\\release\\xml\\time_widget.xml",
+        "source": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\xml\\time_widget.xml"
+    },
+    {
+        "merged": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\build\\intermediates\\res\\merged\\release\\xml\\small_time_widget.xml",
+        "source": "E:\\PELAJARAN\\XI\\PPB\\Andro\\Sholat\\app\\src\\main\\res\\xml\\small_time_widget.xml"
+    }
+]

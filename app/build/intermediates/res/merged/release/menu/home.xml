@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="id.sch.smktelkom_mlg.project2.xirpl511203031.prayertimes.Home">
+
+    <item
+        android:id="@+id/action_loc_add"
+        android:icon="@drawable/ic_edit_location_black_24dp"
+        android:showAsAction="withText|ifRoom"
+        android:title="" />
+
+</menu>
